@@ -1,0 +1,27 @@
+body {
+    color: wheat;
+    background: rgb(0, 168, 194);
+    margin: 0%;
+    font-family: "chakra petch", sans-serif;
+}
+h1{ 
+    font-size: 25   px;
+}
+header {
+    border-bottom: solid 3px wheat;
+    padding: 20px;
+    font-size: 32px;
+color: wheat;
+}
+
+section {
+    background: rgb(76, 127, 246);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.center{
+    display: flex;
+}
